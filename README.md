@@ -1,6 +1,6 @@
 # Data-analytics-portfolio
-Hi, I'm **Heritage Obideyi**. 
-A **Data Analyst** skilled in Excel, PowerBI and Data storytelling.
+Hi, I'm **Heritage Obideyi**, 
+ a **Data Analyst** skilled in Excel, PowerBI and Data storytelling.
 This portfolio highlights projects where I clean, analyse, and visualise data to extract insights and help make informed decisions.
 
 
