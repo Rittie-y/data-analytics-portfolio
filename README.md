@@ -24,15 +24,8 @@ This portfolio highlights projects where I clean, analyse, and visualise data to
 - **Description:** Cleaned, explored, analysed and visualised online retail datasets to track revenue trends across countries on Excel and Power BI
 - **Skills Used:** Excel, Power BI
 - **Highlights:** Revealed top-performing regions and helped identify future focus points
-- **Link:** [View Project] 
+- **Link:** [View Project] (https://github.com/Rittie-y/data-analytics-portfolio/commit/67e9ff19fa484de97a22fa7e8da88c6fdf2060c2) 
 
----
-
-### 2. 
-- **Description:**
-- **Skills Used:**
-- **Highlights:**
-- **Link:** [View Project]
 
 ---
 
