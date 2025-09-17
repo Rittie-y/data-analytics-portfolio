@@ -1,0 +1,45 @@
+# 📊 Online Retail Revenue Trend Dashboard (Excel, Power BI)
+
+## 🔹 Project Overview
+This project analyzes online retail data across regions and products to uncover revenue trends.  
+The goal was to identify key drivers of revenue growth and areas for improvement.  
+
+---
+
+## 🔹 Dataset
+- **Source:** [Forage]  
+- **Size:** ~600,000 rows  
+- **Fields:** Date, Region, Product, Sales Amount, Profit  
+
+---
+
+## 🔹 Process
+1. **Data Cleaning:** Removed duplicates, handled missing values 
+2. **Analysis:** Created carts to summarize revenue by region, product, and time period  
+3. **Visualization:** Designed an interactive dashboard with charts for trends and KPIs  
+
+---
+
+## 🔹 Key Insights
+- Region X contributed the highest revenue (~40% of total sales).  
+- Product B consistently underperformed, suggesting need for strategy review.  
+- Seasonal trends showed a sales peak in Q4.  
+
+---
+
+## 🔹 Tools & Skills Used
+- Microsoft Excel 
+- power BI
+- Data Cleaning, Analysis & Visualization  
+- Business Insights  
+
+---
+
+## 🔹 Dashboard Preview
+![Dashboard Screenshot] 
+
+---
+
+## 🔹 How to Use
+1. Download the Excel file: [sales_dashboard.xlsx] 
+2. Open in Excel → Explore Pivot Tables and interactive charts.  
