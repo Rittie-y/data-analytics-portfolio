@@ -20,11 +20,11 @@ This portfolio highlights projects where I clean, analyse, and visualise data to
 ## Featured Projects
 
 
-### 1.  
-- **Description:**
-- **Skills Used:**
-- **Highlights:**
-- **Link:** [View Project]
+### 1. **Online Retail Store Analysis**
+- **Description:** Cleaned, explored, analysed and visualised online retail datasets to track revenue trends across countries on Excel and Power BI
+- **Skills Used:** Excel, Power BI
+- **Highlights:** Revealed top-performing regions and helped identify future focus points
+- **Link:** [View Project]  
 
 ---
 
